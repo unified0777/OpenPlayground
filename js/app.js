@@ -50,7 +50,7 @@ navToggle.addEventListener("click", () => {
 // ===============================
 // Projects Logic (SEARCH + SORT + FILTER + PAGINATION)
 // ===============================
-const itemsPerPage = 10;
+const itemsPerPage = 9;
 let currentPage = 1;
 let currentCategory = "all";
 let currentSort = "default";
